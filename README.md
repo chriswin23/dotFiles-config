@@ -1,5 +1,7 @@
 # Dot files configuration for my arch-hyprland
 
+Using zsh
+
 ## Dependencies:
 
 ### Terminal
