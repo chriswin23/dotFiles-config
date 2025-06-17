@@ -2,6 +2,24 @@
 
 Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 
+## Screenshots
+
+### waybar
+
+![waybar](hypr/screenshots/waybar.png)
+
+### wlogout
+
+![wlogout](hypr/screenshots/wlogout.png)
+
+### terminal
+
+![terminal](hypr/screenshots/terminal.png)
+
+### wofi
+
+![wofi](hypr/screenshots/wofi.png)
+
 ## Dependencies:
 
 ### Terminal
