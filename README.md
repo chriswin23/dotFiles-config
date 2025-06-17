@@ -20,6 +20,10 @@ Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 
 ![wofi](hypr/screenshots/wofi.png)
 
+### hyprlock
+
+![hyprlock](hypr/screenshots/lockscreen.png)
+
 ## Dependencies:
 
 ### Terminal
