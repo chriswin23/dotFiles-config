@@ -2,6 +2,20 @@
 
 Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 
+## Screenshots
+
+### waybar
+
+![waybar](hypr/screenshots/waybar.png)
+
+### wlogout
+
+### terminal
+
+### wofi
+
+
+
 ## Dependencies:
 
 ### Terminal
