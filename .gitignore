@@ -1,0 +1,25 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!alacritty
+!dunst
+!fastfetch
+!htop
+!hypr
+!nvim
+!tmux
+!uwsm
+!waybar
+!wlogout
+!wofi
+!.zshenv
+!.zshrc
+!README.md
+!starship-princess.toml
+!starship-tokyo.toml
+!starship.toml
+
+# ...even if they are in subdirectories
+!*/
