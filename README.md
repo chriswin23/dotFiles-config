@@ -1,6 +1,6 @@
 # Dot files configuration for my arch-hyprland
 
-Using zsh
+Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 
 ## Dependencies:
 
