@@ -51,7 +51,7 @@ Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 - blueberry (bluetooth manager)
 - wofi (search app)
 - dunst (notification)
-- htop (processes)
+- btop (processes)
 - nmtui (network manager)
 
 ### Hyprland
@@ -61,3 +61,4 @@ Using zsh, and symlink them to ~/.zshrc ~/.zshenv
   -> Bibata-Amber
 - hyprshot (screenshot)
 - uwsm and libnewt (startup for hyprland)
+- ncspot (spotify cli)

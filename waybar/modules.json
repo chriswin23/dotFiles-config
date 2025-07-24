@@ -90,7 +90,7 @@
   "cpu": {
     "format": "  {usage}%",
     "tooltip": true,
-    "on-click": "hyprctl dispatch exec '[float] alacritty -e htop'"
+    "on-click": "hyprctl dispatch exec '[float] alacritty -e btop'"
   },
   "memory": {
     "format": "  {}%",

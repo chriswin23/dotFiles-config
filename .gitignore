@@ -20,7 +20,7 @@
 !starship-princess.toml
 !starship-tokyo.toml
 !starship.toml
-!htop
+!ncspot
 
 # ...even if they are in subdirectories
 !*/
