@@ -1,0 +1,94 @@
+format = """
+[░▒▓](#ffb74d)\
+[  ](bg:#ffb74d fg:#ffffff)\
+[](bg:#eba033 fg:#ffb74d)\
+$directory\
+[](fg:#eba033 bg:#e08909)\
+$git_branch\
+$git_status\
+[](fg:#e08909 bg:#946623)\
+$nodejs\
+$rust\
+$golang\
+$php\
+[](fg:#946623 bg:#191104)\
+$time\
+[ ](fg:#191104)\
+"""
+
+[directory]
+style = "fg:#ffffff bg:#eba033"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+
+[git_branch]
+symbol = ""
+style = "bg:#e08909"
+format = '[[ $symbol $branch ](fg:#f3e1c9 bg:#e08909)]($style)'
+
+[git_status]
+style = "bg:#e08909"
+format = '[[($all_status$ahead_behind )](fg:#f3e1c9 bg:#e08909)]($style)'
+
+[c]
+symbol = "" 
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[cpp]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[java]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[lua]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[python]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[perl]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[nodejs]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[rust]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[golang]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[php]
+symbol = ""
+style = "bg:#946623"
+format = '[[ $symbol ($version) ](fg:#eba033 bg:#946623)]($style)'
+
+[time]
+disabled = false
+time_format = "%R" # Hour:Minute Format
+style = "bg:#191104"
+format = '[[  $time ](fg:#b99d74 bg:#191104)]($style)'
