@@ -8,6 +8,7 @@
 !fastfetch
 !htop
 !hypr
+!ncspot
 !nvim
 !tmux
 !uwsm
@@ -20,7 +21,6 @@
 !starship-princess.toml
 !starship-tokyo.toml
 !starship.toml
-!ncspot
 
 # ...even if they are in subdirectories
-!*/
+# !*/
