@@ -10,11 +10,15 @@ Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 
 ### wlogout
 
+![wlogout](hypr/screenshots/wlogout.png)
+
 ### terminal
+
+![terminal](hypr/screenshots/terminal.png)
 
 ### wofi
 
-
+![wofi](hypr/screenshots/wofi.png)
 
 ## Dependencies:
 
