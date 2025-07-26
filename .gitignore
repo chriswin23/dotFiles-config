@@ -2,8 +2,8 @@
 *
 
 # But not these files...
-!.gitignore
 !alacritty
+!cava
 !dunst
 !fastfetch
 !htop
@@ -21,7 +21,7 @@
 !starship-princess.toml
 !starship-tokyo.toml
 !starship.toml
-!cava
+!.gitignore
 
 # ...even if they are in subdirectories
 # !*/
