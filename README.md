@@ -24,6 +24,10 @@ Using zsh, and symlink them to ~/.zshrc ~/.zshenv
 
 ![hyprlock](hypr/screenshots/lockscreen.png)
 
+### music (ncspot - cava)
+
+![music-player](hypr/screenshots/music-player.png)
+
 ## Dependencies:
 
 ### Terminal
