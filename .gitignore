@@ -1,20 +1,22 @@
 # Ignore everything
-*
+/*
 
-# But not these files...
-!alacritty
-!cava
-!dunst
-!fastfetch
-!htop
-!hypr
-!ncspot
-!nvim
-!tmux
-!uwsm
-!waybar
-!wlogout
-!wofi
+# But not these folders...
+!alacritty/
+!cava/
+!dunst/
+!fastfetch/
+!htop/
+!hypr/
+!ncspot/
+!nvim/
+!tmux/
+!uwsm/
+!waybar/
+!wlogout/
+!wofi/
+
+# But not these files
 !.zshenv
 !.zshrc
 !README.md
