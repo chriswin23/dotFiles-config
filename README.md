@@ -61,4 +61,7 @@ Using zsh, and symlink them to ~/.zshrc ~/.zshenv
   -> Bibata-Amber
 - hyprshot (screenshot)
 - uwsm and libnewt (startup for hyprland)
+
+### Others
 - ncspot (spotify cli)
+- cava (sound waves)

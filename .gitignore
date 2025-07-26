@@ -21,6 +21,7 @@
 !starship-princess.toml
 !starship-tokyo.toml
 !starship.toml
+!cava
 
 # ...even if they are in subdirectories
 # !*/
